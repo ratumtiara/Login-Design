@@ -1,2 +1,5 @@
-# Login-Design
-Build a login form design in React Native 
+# Login-Form-Design
+A Login Form Design using React Native (expo)
+Just for fun learning design
+
+to run => npm start
